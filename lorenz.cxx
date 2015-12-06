@@ -10,8 +10,6 @@ int main(void)
 {
 const double dx = 0.1;
 const double xmax = 100.0;
-//const double eta = 0.4;
-//const double psi0 = 1e-5;
 double a = 10, b = 28, c = 8/3.0;
 double y[2]; y[0] = 1; y[1] = 1; y[2] = 1;
 
